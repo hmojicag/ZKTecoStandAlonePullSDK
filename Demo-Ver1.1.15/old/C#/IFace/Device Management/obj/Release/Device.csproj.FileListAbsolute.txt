@@ -1,0 +1,26 @@
+E:\C#\IFace\Device Management\obj\Release\Interop.zkemkeeper.dll
+E:\C#\IFace\Device Management\obj\Release\Device.csproj.ResolveComReference.cache
+E:\C#\IFace\Device Management\bin\Release\Device.exe
+E:\C#\IFace\Device Management\bin\Release\Device.pdb
+E:\C#\IFace\Device Management\bin\Release\Interop.zkemkeeper.dll
+E:\C#\IFace\Device Management\obj\Release\ResolveAssemblyReference.cache
+E:\C#\IFace\Device Management\obj\Release\Device.DeviceMain.resources
+E:\C#\IFace\Device Management\obj\Release\Device.Properties.Resources.resources
+E:\C#\IFace\Device Management\obj\Release\Device.csproj.GenerateResource.Cache
+E:\C#\IFace\Device Management\obj\Release\Device.exe
+E:\C#\IFace\Device Management\obj\Release\Device.pdb
+D:\wince\work\脱机sdk\文档\光盘资料\脱机通讯开发包(32bit Ver6.2.4.1)\Demo\C#\IFace\Device Management\obj\Release\Interop.zkemkeeper.dll
+D:\wince\work\脱机sdk\文档\光盘资料\脱机通讯开发包(32bit Ver6.2.4.1)\Demo\C#\IFace\Device Management\obj\Release\Device.csproj.ResolveComReference.cache
+D:\wince\work\脱机sdk\文档\光盘资料\脱机通讯开发包(32bit Ver6.2.4.1)\Demo\C#\IFace\Device Management\obj\Release\Device.exe
+D:\wince\work\脱机sdk\文档\光盘资料\脱机通讯开发包(32bit Ver6.2.4.1)\Demo\C#\IFace\Device Management\bin\Release\Device.exe
+D:\wince\work\脱机sdk\文档\光盘资料\脱机通讯开发包(32bit Ver6.2.4.1)\Demo\C#\IFace\Device Management\bin\Release\Device.pdb
+D:\wince\work\脱机sdk\文档\光盘资料\脱机通讯开发包(32bit Ver6.2.4.1)\Demo\C#\IFace\Device Management\bin\Release\Interop.zkemkeeper.dll
+D:\wince\work\脱机sdk\文档\光盘资料\脱机通讯开发包(32bit Ver6.2.4.1)\Demo\C#\IFace\Device Management\obj\Release\ResolveAssemblyReference.cache
+D:\wince\work\脱机sdk\文档\光盘资料\脱机通讯开发包(32bit Ver6.2.4.1)\Demo\C#\IFace\Device Management\obj\Release\Device.DeviceMain.resources
+D:\wince\work\脱机sdk\文档\光盘资料\脱机通讯开发包(32bit Ver6.2.4.1)\Demo\C#\IFace\Device Management\obj\Release\Device.Properties.Resources.resources
+D:\wince\work\脱机sdk\文档\光盘资料\脱机通讯开发包(32bit Ver6.2.4.1)\Demo\C#\IFace\Device Management\obj\Release\Device.csproj.GenerateResource.Cache
+D:\wince\work\脱机sdk\文档\光盘资料\脱机通讯开发包(32bit Ver6.2.4.1)\Demo\C#\IFace\Device Management\obj\Release\Device.pdb
+D:\WorkSpace\Repository\GIT\standalonesdkdoc\release\sdk-6.2.5.54\Demo\C#\IFace\Device Management\obj\Release\Interop.zkemkeeper.dll
+D:\WorkSpace\Repository\GIT\standalonesdkdoc\release\sdk-6.2.5.54\Demo\C#\IFace\Device Management\obj\Release\Device.csproj.ResolveComReference.cache
+D:\WorkSpace\Repository\GIT\standalonesdkdoc\release\sdk-6.2.5.54\Demo\C#\IFace\Device Management\obj\Release\Device.exe
+D:\WorkSpace\Repository\GIT\standalonesdkdoc\release\sdk-6.2.5.54\Demo\C#\IFace\Device Management\obj\Release\Device.pdb

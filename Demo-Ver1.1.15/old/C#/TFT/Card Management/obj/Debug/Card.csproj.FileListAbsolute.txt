@@ -1,0 +1,2 @@
+E:\C#\TFT\Card Management\obj\Debug\Interop.zkemkeeper.dll
+E:\C#\TFT\Card Management\obj\Debug\Card.csproj.ResolveComReference.cache

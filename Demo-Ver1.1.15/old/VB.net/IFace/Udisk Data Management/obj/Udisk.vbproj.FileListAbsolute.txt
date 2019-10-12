@@ -1,0 +1,10 @@
+D:\projects\SDK\zkfinger\光盘文件\Standalone SDK\Communication Protocol SDK(32Bit Ver6.2.3.9)\Demo\VB.net\IFace\Udisk Data Management\bin\x86\Release\Udisk.exe
+D:\projects\SDK\zkfinger\光盘文件\Standalone SDK\Communication Protocol SDK(32Bit Ver6.2.3.9)\Demo\VB.net\IFace\Udisk Data Management\bin\x86\Release\Udisk.pdb
+D:\projects\SDK\zkfinger\光盘文件\Standalone SDK\Communication Protocol SDK(32Bit Ver6.2.3.9)\Demo\VB.net\IFace\Udisk Data Management\bin\x86\Release\Udisk.xml
+D:\projects\SDK\zkfinger\光盘文件\Standalone SDK\Communication Protocol SDK(32Bit Ver6.2.3.9)\Demo\VB.net\IFace\Udisk Data Management\obj\x86\Release\ResolveAssemblyReference.cache
+D:\projects\SDK\zkfinger\光盘文件\Standalone SDK\Communication Protocol SDK(32Bit Ver6.2.3.9)\Demo\VB.net\IFace\Udisk Data Management\obj\x86\Release\UdiskData.UDiskDataMain.resources
+D:\projects\SDK\zkfinger\光盘文件\Standalone SDK\Communication Protocol SDK(32Bit Ver6.2.3.9)\Demo\VB.net\IFace\Udisk Data Management\obj\x86\Release\UdiskData.Resources.resources
+D:\projects\SDK\zkfinger\光盘文件\Standalone SDK\Communication Protocol SDK(32Bit Ver6.2.3.9)\Demo\VB.net\IFace\Udisk Data Management\obj\x86\Release\Udisk.vbproj.GenerateResource.Cache
+D:\projects\SDK\zkfinger\光盘文件\Standalone SDK\Communication Protocol SDK(32Bit Ver6.2.3.9)\Demo\VB.net\IFace\Udisk Data Management\obj\x86\Release\Udisk.exe
+D:\projects\SDK\zkfinger\光盘文件\Standalone SDK\Communication Protocol SDK(32Bit Ver6.2.3.9)\Demo\VB.net\IFace\Udisk Data Management\obj\x86\Release\Udisk.xml
+D:\projects\SDK\zkfinger\光盘文件\Standalone SDK\Communication Protocol SDK(32Bit Ver6.2.3.9)\Demo\VB.net\IFace\Udisk Data Management\obj\x86\Release\Udisk.pdb

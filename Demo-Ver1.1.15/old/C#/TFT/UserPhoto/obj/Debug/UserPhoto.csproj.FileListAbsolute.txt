@@ -1,0 +1,2 @@
+D:\wince\work\脱机sdk\sdk6.2.4.7\Document\脱机通讯开发包(32bit Ver6.2.4.11)\Demo\C#\TFT\UserPhoto\obj\Debug\Interop.zkemkeeper.dll
+D:\wince\work\脱机sdk\sdk6.2.4.7\Document\脱机通讯开发包(32bit Ver6.2.4.11)\Demo\C#\TFT\UserPhoto\obj\Debug\UserPhoto.csproj.ResolveComReference.cache

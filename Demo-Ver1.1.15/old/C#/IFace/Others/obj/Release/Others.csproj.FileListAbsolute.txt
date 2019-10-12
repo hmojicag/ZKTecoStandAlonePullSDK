@@ -1,0 +1,25 @@
+E:\C#\IFace\Others\obj\Release\Interop.zkemkeeper.dll
+E:\C#\IFace\Others\obj\Release\Others.csproj.ResolveComReference.cache
+E:\C#\IFace\Others\bin\Release\Others.exe
+E:\C#\IFace\Others\bin\Release\Others.pdb
+E:\C#\IFace\Others\bin\Release\Interop.zkemkeeper.dll
+E:\C#\IFace\Others\obj\Release\ResolveAssemblyReference.cache
+E:\C#\IFace\Others\obj\Release\Others.OthersMain.resources
+E:\C#\IFace\Others\obj\Release\Others.Properties.Resources.resources
+E:\C#\IFace\Others\obj\Release\Others.csproj.GenerateResource.Cache
+E:\C#\IFace\Others\obj\Release\Others.exe
+E:\C#\IFace\Others\obj\Release\Others.pdb
+D:\wince\work\脱机sdk\文档\光盘资料\脱机通讯开发包(32bit Ver6.2.4.1)\Demo\C#\IFace\Others\obj\Release\Interop.zkemkeeper.dll
+D:\wince\work\脱机sdk\文档\光盘资料\脱机通讯开发包(32bit Ver6.2.4.1)\Demo\C#\IFace\Others\obj\Release\Others.csproj.ResolveComReference.cache
+D:\wince\work\脱机sdk\文档\光盘资料\脱机通讯开发包(32bit Ver6.2.4.1)\Demo\C#\IFace\Others\obj\Release\Others.exe
+D:\WorkSpace\Repository\GIT\standalonesdkdoc\release\sdk-6.2.5.54\Demo\C#\IFace\Others\obj\Release\Interop.zkemkeeper.dll
+D:\WorkSpace\Repository\GIT\standalonesdkdoc\release\sdk-6.2.5.54\Demo\C#\IFace\Others\obj\Release\Others.csproj.ResolveComReference.cache
+D:\WorkSpace\Repository\GIT\standalonesdkdoc\release\sdk-6.2.5.54\Demo\C#\IFace\Others\obj\Release\Others.exe
+D:\WorkSpace\Repository\GIT\standalonesdkdoc\release\sdk-6.2.5.54\Demo\C#\IFace\Others\bin\Release\Others.exe
+D:\WorkSpace\Repository\GIT\standalonesdkdoc\release\sdk-6.2.5.54\Demo\C#\IFace\Others\bin\Release\Others.pdb
+D:\WorkSpace\Repository\GIT\standalonesdkdoc\release\sdk-6.2.5.54\Demo\C#\IFace\Others\bin\Release\Interop.zkemkeeper.dll
+D:\WorkSpace\Repository\GIT\standalonesdkdoc\release\sdk-6.2.5.54\Demo\C#\IFace\Others\obj\Release\ResolveAssemblyReference.cache
+D:\WorkSpace\Repository\GIT\standalonesdkdoc\release\sdk-6.2.5.54\Demo\C#\IFace\Others\obj\Release\Others.OthersMain.resources
+D:\WorkSpace\Repository\GIT\standalonesdkdoc\release\sdk-6.2.5.54\Demo\C#\IFace\Others\obj\Release\Others.Properties.Resources.resources
+D:\WorkSpace\Repository\GIT\standalonesdkdoc\release\sdk-6.2.5.54\Demo\C#\IFace\Others\obj\Release\Others.csproj.GenerateResource.Cache
+D:\WorkSpace\Repository\GIT\standalonesdkdoc\release\sdk-6.2.5.54\Demo\C#\IFace\Others\obj\Release\Others.pdb

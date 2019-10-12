@@ -1,0 +1,13 @@
+D:\projects\SDK\zkfinger\光盘文件\Standalone SDK\Communication Protocol SDK(32Bit Ver6.2.3.9)\Demo\VB.net\TFT\OnlineEnroll\bin\x86\Release\OnlineEnroll.exe
+D:\projects\SDK\zkfinger\光盘文件\Standalone SDK\Communication Protocol SDK(32Bit Ver6.2.3.9)\Demo\VB.net\TFT\OnlineEnroll\bin\x86\Release\OnlineEnroll.pdb
+D:\projects\SDK\zkfinger\光盘文件\Standalone SDK\Communication Protocol SDK(32Bit Ver6.2.3.9)\Demo\VB.net\TFT\OnlineEnroll\bin\x86\Release\OnlineEnroll.xml
+D:\projects\SDK\zkfinger\光盘文件\Standalone SDK\Communication Protocol SDK(32Bit Ver6.2.3.9)\Demo\VB.net\TFT\OnlineEnroll\bin\x86\Release\Interop.zkemkeeper.dll
+D:\projects\SDK\zkfinger\光盘文件\Standalone SDK\Communication Protocol SDK(32Bit Ver6.2.3.9)\Demo\VB.net\TFT\OnlineEnroll\obj\x86\Release\ResolveAssemblyReference.cache
+D:\projects\SDK\zkfinger\光盘文件\Standalone SDK\Communication Protocol SDK(32Bit Ver6.2.3.9)\Demo\VB.net\TFT\OnlineEnroll\obj\x86\Release\Interop.zkemkeeper.dll
+D:\projects\SDK\zkfinger\光盘文件\Standalone SDK\Communication Protocol SDK(32Bit Ver6.2.3.9)\Demo\VB.net\TFT\OnlineEnroll\obj\x86\Release\OnlineEnroll.vbproj.ResolveComReference.cache
+D:\projects\SDK\zkfinger\光盘文件\Standalone SDK\Communication Protocol SDK(32Bit Ver6.2.3.9)\Demo\VB.net\TFT\OnlineEnroll\obj\x86\Release\OnlineEnroll.OnEnrollMain.resources
+D:\projects\SDK\zkfinger\光盘文件\Standalone SDK\Communication Protocol SDK(32Bit Ver6.2.3.9)\Demo\VB.net\TFT\OnlineEnroll\obj\x86\Release\OnlineEnroll.Resources.resources
+D:\projects\SDK\zkfinger\光盘文件\Standalone SDK\Communication Protocol SDK(32Bit Ver6.2.3.9)\Demo\VB.net\TFT\OnlineEnroll\obj\x86\Release\OnlineEnroll.vbproj.GenerateResource.Cache
+D:\projects\SDK\zkfinger\光盘文件\Standalone SDK\Communication Protocol SDK(32Bit Ver6.2.3.9)\Demo\VB.net\TFT\OnlineEnroll\obj\x86\Release\OnlineEnroll.exe
+D:\projects\SDK\zkfinger\光盘文件\Standalone SDK\Communication Protocol SDK(32Bit Ver6.2.3.9)\Demo\VB.net\TFT\OnlineEnroll\obj\x86\Release\OnlineEnroll.xml
+D:\projects\SDK\zkfinger\光盘文件\Standalone SDK\Communication Protocol SDK(32Bit Ver6.2.3.9)\Demo\VB.net\TFT\OnlineEnroll\obj\x86\Release\OnlineEnroll.pdb

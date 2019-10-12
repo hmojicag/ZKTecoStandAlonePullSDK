@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Card Management">
+</Property><Property Name="Solution File" Value="E:\C#\Black&amp;White\Card Management\Card Management.sln">
+</Property><Property Name="Date" Value="2010年12月3日">
+</Property><Property Name="Time" Value="12:43">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Card Management.sln" Description="File successfully backed up as E:\C#\Black&amp;White\Card Management\Backup\Card Management.sln">
+</Event><Event ErrorLevel="0" Project="Card" Source="Card.csproj" Description="Project file successfully backed up as E:\C#\Black&amp;White\Card Management\Backup\Card.csproj">
+</Event><Event ErrorLevel="0" Project="Card" Source="CardMain.cs" Description="File successfully backed up as E:\C#\Black&amp;White\Card Management\Backup\CardMain.cs">
+</Event><Event ErrorLevel="0" Project="Card" Source="CardMain.Designer.cs" Description="File successfully backed up as E:\C#\Black&amp;White\Card Management\Backup\CardMain.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Card" Source="Program.cs" Description="File successfully backed up as E:\C#\Black&amp;White\Card Management\Backup\Program.cs">
+</Event><Event ErrorLevel="0" Project="Card" Source="Properties\AssemblyInfo.cs" Description="File successfully backed up as E:\C#\Black&amp;White\Card Management\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Card" Source="Properties\Resources.Designer.cs" Description="File successfully backed up as E:\C#\Black&amp;White\Card Management\Backup\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Card" Source="Properties\Settings.Designer.cs" Description="File successfully backed up as E:\C#\Black&amp;White\Card Management\Backup\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Card" Source="SearchforUSBCom.cs" Description="File successfully backed up as E:\C#\Black&amp;White\Card Management\Backup\SearchforUSBCom.cs">
+</Event><Event ErrorLevel="0" Project="Card" Source="Properties\Settings.settings" Description="File successfully backed up as E:\C#\Black&amp;White\Card Management\Backup\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="Card" Source="images\top.jpg" Description="File successfully backed up as E:\C#\Black&amp;White\Card Management\Backup\images\top.jpg">
+</Event><Event ErrorLevel="0" Project="Card" Source="CardMain.resx" Description="File successfully backed up as E:\C#\Black&amp;White\Card Management\Backup\CardMain.resx">
+</Event><Event ErrorLevel="0" Project="Card" Source="Properties\Resources.resx" Description="File successfully backed up as E:\C#\Black&amp;White\Card Management\Backup\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="Card" Source="Card.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Card" Source="Card.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Card Management.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Card Management.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Card" Source="Card.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

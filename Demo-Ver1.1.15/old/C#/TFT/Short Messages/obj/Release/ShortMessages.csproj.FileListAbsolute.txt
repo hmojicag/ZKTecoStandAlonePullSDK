@@ -1,0 +1,26 @@
+E:\C#\TFT\Short Messages\obj\Release\Interop.zkemkeeper.dll
+E:\C#\TFT\Short Messages\obj\Release\ShortMessages.csproj.ResolveComReference.cache
+E:\C#\TFT\Short Messages\bin\Release\ShortMessages.exe
+E:\C#\TFT\Short Messages\bin\Release\ShortMessages.pdb
+E:\C#\TFT\Short Messages\bin\Release\Interop.zkemkeeper.dll
+E:\C#\TFT\Short Messages\obj\Release\ResolveAssemblyReference.cache
+E:\C#\TFT\Short Messages\obj\Release\ShortMessages.SMSMain.resources
+E:\C#\TFT\Short Messages\obj\Release\ShortMessages.Properties.Resources.resources
+E:\C#\TFT\Short Messages\obj\Release\ShortMessages.csproj.GenerateResource.Cache
+E:\C#\TFT\Short Messages\obj\Release\ShortMessages.exe
+E:\C#\TFT\Short Messages\obj\Release\ShortMessages.pdb
+D:\wince\work\脱机sdk\文档\光盘资料\脱机通讯开发包(32bit Ver6.2.4.1)\Demo\C#\TFT\Short Messages\obj\Release\Interop.zkemkeeper.dll
+D:\wince\work\脱机sdk\文档\光盘资料\脱机通讯开发包(32bit Ver6.2.4.1)\Demo\C#\TFT\Short Messages\obj\Release\ShortMessages.csproj.ResolveComReference.cache
+D:\wince\work\脱机sdk\文档\光盘资料\脱机通讯开发包(32bit Ver6.2.4.1)\Demo\C#\TFT\Short Messages\obj\Release\ShortMessages.exe
+D:\wince\work\脱机sdk\文档\光盘资料\脱机通讯开发包(32bit Ver6.2.4.1)\Demo\C#\TFT\Short Messages\bin\Release\ShortMessages.exe
+D:\wince\work\脱机sdk\文档\光盘资料\脱机通讯开发包(32bit Ver6.2.4.1)\Demo\C#\TFT\Short Messages\bin\Release\ShortMessages.pdb
+D:\wince\work\脱机sdk\文档\光盘资料\脱机通讯开发包(32bit Ver6.2.4.1)\Demo\C#\TFT\Short Messages\bin\Release\Interop.zkemkeeper.dll
+D:\wince\work\脱机sdk\文档\光盘资料\脱机通讯开发包(32bit Ver6.2.4.1)\Demo\C#\TFT\Short Messages\obj\Release\ResolveAssemblyReference.cache
+D:\wince\work\脱机sdk\文档\光盘资料\脱机通讯开发包(32bit Ver6.2.4.1)\Demo\C#\TFT\Short Messages\obj\Release\ShortMessages.SMSMain.resources
+D:\wince\work\脱机sdk\文档\光盘资料\脱机通讯开发包(32bit Ver6.2.4.1)\Demo\C#\TFT\Short Messages\obj\Release\ShortMessages.Properties.Resources.resources
+D:\wince\work\脱机sdk\文档\光盘资料\脱机通讯开发包(32bit Ver6.2.4.1)\Demo\C#\TFT\Short Messages\obj\Release\ShortMessages.csproj.GenerateResource.Cache
+D:\wince\work\脱机sdk\文档\光盘资料\脱机通讯开发包(32bit Ver6.2.4.1)\Demo\C#\TFT\Short Messages\obj\Release\ShortMessages.pdb
+D:\WorkSpace\Repository\GIT\standalonesdkdoc\release\sdk-6.2.5.54\Demo\C#\TFT\Short Messages\obj\Release\Interop.zkemkeeper.dll
+D:\WorkSpace\Repository\GIT\standalonesdkdoc\release\sdk-6.2.5.54\Demo\C#\TFT\Short Messages\obj\Release\ShortMessages.csproj.ResolveComReference.cache
+D:\WorkSpace\Repository\GIT\standalonesdkdoc\release\sdk-6.2.5.54\Demo\C#\TFT\Short Messages\obj\Release\ShortMessages.exe
+D:\WorkSpace\Repository\GIT\standalonesdkdoc\release\sdk-6.2.5.54\Demo\C#\TFT\Short Messages\obj\Release\ShortMessages.pdb

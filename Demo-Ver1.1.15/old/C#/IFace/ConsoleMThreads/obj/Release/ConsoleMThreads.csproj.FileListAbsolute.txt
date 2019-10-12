@@ -1,0 +1,19 @@
+E:\C#\IFace\ConsoleMThreads\obj\Release\Interop.zkemkeeper.dll
+E:\C#\IFace\ConsoleMThreads\obj\Release\ConsoleMThreads.csproj.ResolveComReference.cache
+E:\C#\IFace\ConsoleMThreads\bin\Release\ConsoleMThreads.exe
+E:\C#\IFace\ConsoleMThreads\bin\Release\ConsoleMThreads.pdb
+E:\C#\IFace\ConsoleMThreads\bin\Release\Interop.zkemkeeper.dll
+E:\C#\IFace\ConsoleMThreads\obj\Release\ResolveAssemblyReference.cache
+E:\C#\IFace\ConsoleMThreads\obj\Release\ConsoleMThreads.exe
+E:\C#\IFace\ConsoleMThreads\obj\Release\ConsoleMThreads.pdb
+D:\wince\work\脱机sdk\文档\光盘资料\脱机通讯开发包(32bit Ver6.2.4.1)\Demo\C#\IFace\ConsoleMThreads\obj\Release\Interop.zkemkeeper.dll
+D:\wince\work\脱机sdk\文档\光盘资料\脱机通讯开发包(32bit Ver6.2.4.1)\Demo\C#\IFace\ConsoleMThreads\obj\Release\ConsoleMThreads.csproj.ResolveComReference.cache
+D:\wince\work\脱机sdk\文档\光盘资料\脱机通讯开发包(32bit Ver6.2.4.1)\Demo\C#\IFace\ConsoleMThreads\obj\Release\ConsoleMThreads.exe
+D:\WorkSpace\Repository\GIT\standalonesdkdoc\release\sdk-6.2.5.54\Demo\C#\IFace\ConsoleMThreads\obj\Release\Interop.zkemkeeper.dll
+D:\WorkSpace\Repository\GIT\standalonesdkdoc\release\sdk-6.2.5.54\Demo\C#\IFace\ConsoleMThreads\obj\Release\ConsoleMThreads.csproj.ResolveComReference.cache
+D:\WorkSpace\Repository\GIT\standalonesdkdoc\release\sdk-6.2.5.54\Demo\C#\IFace\ConsoleMThreads\obj\Release\ConsoleMThreads.exe
+D:\WorkSpace\Repository\GIT\standalonesdkdoc\release\sdk-6.2.5.54\Demo\C#\IFace\ConsoleMThreads\bin\Release\ConsoleMThreads.exe
+D:\WorkSpace\Repository\GIT\standalonesdkdoc\release\sdk-6.2.5.54\Demo\C#\IFace\ConsoleMThreads\bin\Release\ConsoleMThreads.pdb
+D:\WorkSpace\Repository\GIT\standalonesdkdoc\release\sdk-6.2.5.54\Demo\C#\IFace\ConsoleMThreads\bin\Release\Interop.zkemkeeper.dll
+D:\WorkSpace\Repository\GIT\standalonesdkdoc\release\sdk-6.2.5.54\Demo\C#\IFace\ConsoleMThreads\obj\Release\ResolveAssemblyReference.cache
+D:\WorkSpace\Repository\GIT\standalonesdkdoc\release\sdk-6.2.5.54\Demo\C#\IFace\ConsoleMThreads\obj\Release\ConsoleMThreads.pdb

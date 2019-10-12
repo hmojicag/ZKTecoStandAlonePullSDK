@@ -1,0 +1,11 @@
+D:\WorkSpace\Repository\GIT\standalonesdkdoc\release\sdk-6.2.5.54\Demo\C#\TFT\UserPhoto\obj\x86\Release\Interop.zkemkeeper.dll
+D:\WorkSpace\Repository\GIT\standalonesdkdoc\release\sdk-6.2.5.54\Demo\C#\TFT\UserPhoto\obj\x86\Release\UserPhoto.csproj.ResolveComReference.cache
+D:\WorkSpace\Repository\GIT\standalonesdkdoc\release\sdk-6.2.5.54\Demo\C#\TFT\UserPhoto\bin\x86\Release\UserPhoto.exe
+D:\WorkSpace\Repository\GIT\standalonesdkdoc\release\sdk-6.2.5.54\Demo\C#\TFT\UserPhoto\bin\x86\Release\UserPhoto.pdb
+D:\WorkSpace\Repository\GIT\standalonesdkdoc\release\sdk-6.2.5.54\Demo\C#\TFT\UserPhoto\bin\x86\Release\Interop.zkemkeeper.dll
+D:\WorkSpace\Repository\GIT\standalonesdkdoc\release\sdk-6.2.5.54\Demo\C#\TFT\UserPhoto\obj\x86\Release\ResolveAssemblyReference.cache
+D:\WorkSpace\Repository\GIT\standalonesdkdoc\release\sdk-6.2.5.54\Demo\C#\TFT\UserPhoto\obj\x86\Release\UserPhoto.UserPhotoMain.resources
+D:\WorkSpace\Repository\GIT\standalonesdkdoc\release\sdk-6.2.5.54\Demo\C#\TFT\UserPhoto\obj\x86\Release\UserPhoto.Properties.Resources.resources
+D:\WorkSpace\Repository\GIT\standalonesdkdoc\release\sdk-6.2.5.54\Demo\C#\TFT\UserPhoto\obj\x86\Release\UserPhoto.csproj.GenerateResource.Cache
+D:\WorkSpace\Repository\GIT\standalonesdkdoc\release\sdk-6.2.5.54\Demo\C#\TFT\UserPhoto\obj\x86\Release\UserPhoto.exe
+D:\WorkSpace\Repository\GIT\standalonesdkdoc\release\sdk-6.2.5.54\Demo\C#\TFT\UserPhoto\obj\x86\Release\UserPhoto.pdb

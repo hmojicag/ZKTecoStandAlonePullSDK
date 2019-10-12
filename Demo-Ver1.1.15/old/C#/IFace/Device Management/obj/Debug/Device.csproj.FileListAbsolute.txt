@@ -1,0 +1,2 @@
+E:\C#\IFace\Device Management\obj\Debug\Interop.zkemkeeper.dll
+E:\C#\IFace\Device Management\obj\Debug\Device.csproj.ResolveComReference.cache

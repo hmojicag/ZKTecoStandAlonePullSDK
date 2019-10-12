@@ -1,0 +1,8 @@
+D:\WorkSpace\Repository\GIT\standalonesdkdoc\release\sdk-6.2.5.54\Demo\C#\Black&White\Udisk Data Management\bin\x86\Release\Udisk.exe
+D:\WorkSpace\Repository\GIT\standalonesdkdoc\release\sdk-6.2.5.54\Demo\C#\Black&White\Udisk Data Management\bin\x86\Release\Udisk.pdb
+D:\WorkSpace\Repository\GIT\standalonesdkdoc\release\sdk-6.2.5.54\Demo\C#\Black&White\Udisk Data Management\obj\x86\Release\ResolveAssemblyReference.cache
+D:\WorkSpace\Repository\GIT\standalonesdkdoc\release\sdk-6.2.5.54\Demo\C#\Black&White\Udisk Data Management\obj\x86\Release\UdiskData.UDiskDataMain.resources
+D:\WorkSpace\Repository\GIT\standalonesdkdoc\release\sdk-6.2.5.54\Demo\C#\Black&White\Udisk Data Management\obj\x86\Release\UdiskData.Properties.Resources.resources
+D:\WorkSpace\Repository\GIT\standalonesdkdoc\release\sdk-6.2.5.54\Demo\C#\Black&White\Udisk Data Management\obj\x86\Release\Udisk.csproj.GenerateResource.Cache
+D:\WorkSpace\Repository\GIT\standalonesdkdoc\release\sdk-6.2.5.54\Demo\C#\Black&White\Udisk Data Management\obj\x86\Release\Udisk.exe
+D:\WorkSpace\Repository\GIT\standalonesdkdoc\release\sdk-6.2.5.54\Demo\C#\Black&White\Udisk Data Management\obj\x86\Release\Udisk.pdb

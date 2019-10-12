@@ -1,0 +1,11 @@
+D:\WorkSpace\Repository\GIT\standalonesdkdoc\release\sdk-6.2.5.54\Demo\C#\Black&White\Online Enroll\obj\x86\Release\Interop.zkemkeeper.dll
+D:\WorkSpace\Repository\GIT\standalonesdkdoc\release\sdk-6.2.5.54\Demo\C#\Black&White\Online Enroll\obj\x86\Release\OnlineEnroll.csproj.ResolveComReference.cache
+D:\WorkSpace\Repository\GIT\standalonesdkdoc\release\sdk-6.2.5.54\Demo\C#\Black&White\Online Enroll\bin\x86\Release\OnlineEnroll.exe
+D:\WorkSpace\Repository\GIT\standalonesdkdoc\release\sdk-6.2.5.54\Demo\C#\Black&White\Online Enroll\bin\x86\Release\OnlineEnroll.pdb
+D:\WorkSpace\Repository\GIT\standalonesdkdoc\release\sdk-6.2.5.54\Demo\C#\Black&White\Online Enroll\bin\x86\Release\Interop.zkemkeeper.dll
+D:\WorkSpace\Repository\GIT\standalonesdkdoc\release\sdk-6.2.5.54\Demo\C#\Black&White\Online Enroll\obj\x86\Release\ResolveAssemblyReference.cache
+D:\WorkSpace\Repository\GIT\standalonesdkdoc\release\sdk-6.2.5.54\Demo\C#\Black&White\Online Enroll\obj\x86\Release\OnlineEnroll.OnEnrollMain.resources
+D:\WorkSpace\Repository\GIT\standalonesdkdoc\release\sdk-6.2.5.54\Demo\C#\Black&White\Online Enroll\obj\x86\Release\OnlineEnroll.Properties.Resources.resources
+D:\WorkSpace\Repository\GIT\standalonesdkdoc\release\sdk-6.2.5.54\Demo\C#\Black&White\Online Enroll\obj\x86\Release\OnlineEnroll.csproj.GenerateResource.Cache
+D:\WorkSpace\Repository\GIT\standalonesdkdoc\release\sdk-6.2.5.54\Demo\C#\Black&White\Online Enroll\obj\x86\Release\OnlineEnroll.exe
+D:\WorkSpace\Repository\GIT\standalonesdkdoc\release\sdk-6.2.5.54\Demo\C#\Black&White\Online Enroll\obj\x86\Release\OnlineEnroll.pdb

@@ -1,0 +1,183 @@
+2018-05-24:
+1. Expand the cache size of GetAllUserPhoto, DownloadUserPhoto photos, from the original 50K to 1M.
+2. Fixed an issue where the interface returned a success when SSR_SetDeviceData returned 4.
+3. Fixed the issue that the GetPhotoByName interface causes the SDK to crash when the device image is larger than 101K.
+4. Fixed garbled characters when the user name is greater than 23 bytes.
+5. Fixed issue with Z_IsNewFirmwareMachine return value.
+6. The version is changed to 6.3.1.37.
+
+2018-04-12:
+1. SSR_SetUserTmpStr interface to cancel the FingerIndex can only be passed 15 restrictions.
+2. Modify the connection handle buffer, if not NULL, then release and then re-assigned.
+3. New interface GetPhotoByNameToFile support for access to attendance photos saved to the local specified path.
+4. The version is changed to 6.3.1.36.
+
+2018-03-06:
+1. When the command is issued 118, the firmware fails to be returned, causing the firmware to fail to receive the subsequent commands.
+2. The version is changed to 2.2.0.220.
+
+2018-02-01:
+1. Solve the problem of abnormal crash when the software layer destroys the form.
+2. The version is changed to 6.3.1.34
+
+2018-01-11:
+1. Due to the problem of getting abnormalities in multiple real-time events before repair, the version of PULL SDK has been changed to 2.2.0.219.
+
+2017-12-15:
+1. Modify the problem of user rights conversion.
+2. The version is changed to 6.3.1.33.
+
+2017-11-22:
+1. Fixed the problem that sdk cannot be set as a function key.
+2. The version is changed to 6.3.1.32.
+
+2017-11-16:
+1. Fixed the problem that GetStrCardNumber cannot get the correct card number.
+2. The version number is changed to 6.3.1.31.
+
+2017-11-15:
+1. Increased when the new firmware returns 4989 and 4991, it also means no data.
+2. Fix the problem that the access control machine failed to obtain the fingerprint version.
+
+2017-11-08:
+1. Fixed an issue where the PULL SDK got abnormalities in multiple real-time events.
+
+2017-11-07:
+1. Fixed thread blocking problem.
+2. The version is changed to 6.3.1.30.
+
+2017-11-06:
+1. Fixed the problem that offline sdk cannot call new architecture interface.
+2. The version is changed to 6.3.1.29.
+
+2017-09-19:
+1. Combine template integration and non-template integration code.
+2. Change the offline version to 6.3.1.28.
+3. PULL SDK version changed to 6.2.6.53.
+
+2017-09-18:
+1. EF_ENROLLUSER time type black and white screen structure TUser1 TimeZones field changed from unsigned char to unsigned short to accommodate 9-bit bugfixes.
+2. Repair the abnormality of biological template integration face index.
+3. The version is changed to 6.3.0.28.
+
+2017-08-10:
+1. Integration of biometric templates to obtain fingerprint and valid fingerprints, and the default fingerprint is 1.
+
+2017-07-20:
+1. Fixed pin random problem.
+
+2017-07-13:
+1.StartEnrollEx support face online registration.
+
+2017-07-07:
+1. Clean the serial data.
+
+2017-07-03:
+1. P2P reconnection optimization.
+
+2017-06-12:
+1. Retry mechanism update.
+
+2017-04-26:
+1. Repair memory leaks.
+
+2017-04-19:
+1. Compatible parameters fill in common template.
+
+2017-02-10:
+1. Fix the problem that the real-time status relay status and alarm status are wrong.
+
+
+
+2018-05-24：
+1.扩大GetAllUserPhoto，DownloadUserPhoto照片的缓存大小，由原来的50K扩大到1M
+2.修正SSR_SetDeviceData返回4时，接口也返回成功的错误
+3.修复GetPhotoByName功能，设备图片大于101K时，SDK奔溃的问题，SDK修改为，若外部有传大小，则使用外部的大小，否则使用默认的5M
+4.修复用户姓名大于23个字节就乱码的问题
+5.修复Z_IsNewFirmwareMachine返回值不准确的问题
+6.版本变更为6.3.1.37
+
+2018-04-12：
+1.SSR_SetUserTmpStr接口取消FingerIndex只能传ZKFPV10_FINGER_INDEX(15)的限制
+2.修改连接句柄的buffer，如果不为NULL，则先释放再重新分配
+3.新增接口GetPhotoByNameToFile，支持获取考勤照片保存到本地指定路径
+4.版本变更为6.3.1.36
+
+2018-03-06：
+1.修复下发118命令时，固件返回失败后，SDK重新创建socket时，固件没有重新更新socket，导致固件收不到后续发送的命令
+2.版本变更为2.2.0.220
+
+2018-02-01:
+1.解决软件层在释放com组件时，在销毁窗体时，出现异常奔溃情况，由原来的析构销毁修改为主动销毁
+2.版本变更为6.3.1.34
+
+2018-01-11:
+1.由于之前修复获取多条实时事件出现异常的问题未改版本号，修改PULL SDK版本号变更为2.2.0.219
+
+2017-12-15:
+1.修改用户权限转换的问题
+2.版本号变更为6.3.1.33
+
+2017-11-22:
+1.修复sdk无法设置成功能键的问题
+2.版本号变更为6.3.1.32
+
+2017-11-16:
+1.修复GetStrCardNumber无法获取正确卡号的问题
+2.版本号变更为6.3.1.31
+
+2017-11-15:
+1.增加在新固件返回4989和4991时，也表示无数据的问题
+2.增加非标准脱机协议门禁一体机获取指纹版本失败的问题，解决的方法为：走老参数流程（~ZKFPVersion）
+
+2017-11-08:
+1.修复PULL SDK获取多条实时事件出现异常的问题
+
+2017-11-07:
+1.修复读取线程读取无效数据时将WaitResumeEvent信号重置成无信号,未将主线程WaitDataEvent设为有信号导致主线程阻塞的问题
+2.版本变更为6.3.1.30
+
+2017-11-06:
+1.修复脱机无法调用新架构接口的问题，在connect_net()函数添加缺少的信息"m_IsNewFirmware"
+2.版本变更为6.3.1.29
+
+2017-09-19:
+1.合并模板一体化和非模板一体化代码
+2.脱机版本变更为6.3.1.28
+3.PULL SDK版本变更为6.2.6.53
+
+2017-09-18：
+1.EF_ENROLLUSER时间类型黑白屏结构体TUser1中TimeZones字段由unsigned char改为unsigned short，以适应9位码bug修正 	
+2.修复生物模板一体化人脸索引异常问题
+3.版本变更为6.3.0.28
+
+2017-08-10:
+1.生物模板一体化获取指纹数据有效指纹和胁迫指纹位置转化，且有效指纹默认为1
+
+2017-07-20：
+1.修复Pin随机问题。内存未初始化
+
+2017-07-13：
+1.StartEnrollEx支持人脸在线登记
+
+2017-07-07：
+1.清理串口数据
+
+2017-07-03：
+1.P2P重连优化
+
+2017-06-12：
+1.重试机制更新
+
+2017-04-26：
+1.修复内存泄露
+
+2017-04-19：
+1.兼容参数补齐通用模板
+
+2017-02-10：
+1.修复实时状态继电器状态及报警状态有错
+
+
+
+

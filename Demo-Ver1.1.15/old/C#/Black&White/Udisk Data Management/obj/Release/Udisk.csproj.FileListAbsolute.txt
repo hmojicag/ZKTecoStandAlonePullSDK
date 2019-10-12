@@ -1,0 +1,12 @@
+E:\C#\Black&White\Udisk Data Management\bin\Release\Udisk.exe
+E:\C#\Black&White\Udisk Data Management\bin\Release\Udisk.pdb
+E:\C#\Black&White\Udisk Data Management\obj\Release\ResolveAssemblyReference.cache
+E:\C#\Black&White\Udisk Data Management\obj\Release\UdiskData.UDiskDataMain.resources
+E:\C#\Black&White\Udisk Data Management\obj\Release\UdiskData.Properties.Resources.resources
+E:\C#\Black&White\Udisk Data Management\obj\Release\Udisk.csproj.GenerateResource.Cache
+E:\C#\Black&White\Udisk Data Management\obj\Release\Udisk.exe
+E:\C#\Black&White\Udisk Data Management\obj\Release\Udisk.pdb
+D:\C#\Black&White\Udisk Data Management\obj\Release\Udisk.exe
+D:\C#\Black&White\Udisk Data Management\obj\Release\Udisk.pdb
+D:\wince\work\脱机sdk\文档\光盘资料\脱机通讯开发包(32bit Ver6.2.4.1)\Demo\C#\Black&White\Udisk Data Management\obj\Release\Udisk.exe
+D:\WorkSpace\Repository\GIT\standalonesdkdoc\release\sdk-6.2.5.54\Demo\C#\Black&White\Udisk Data Management\obj\Release\Udisk.exe

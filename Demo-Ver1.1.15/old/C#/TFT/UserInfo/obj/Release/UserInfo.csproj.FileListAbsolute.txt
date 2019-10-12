@@ -1,0 +1,37 @@
+E:\C#\TFT\UserInfo\obj\Release\Interop.zkemkeeper.dll
+E:\C#\TFT\UserInfo\obj\Release\UserInfo.csproj.ResolveComReference.cache
+E:\C#\TFT\UserInfo\bin\Release\UserInfo.exe
+E:\C#\TFT\UserInfo\bin\Release\UserInfo.pdb
+E:\C#\TFT\UserInfo\bin\Release\Interop.zkemkeeper.dll
+E:\C#\TFT\UserInfo\obj\Release\ResolveAssemblyReference.cache
+E:\C#\TFT\UserInfo\obj\Release\UserInfo.UserInfoMain.resources
+E:\C#\TFT\UserInfo\obj\Release\UserInfo.Properties.Resources.resources
+E:\C#\TFT\UserInfo\obj\Release\UserInfo.csproj.GenerateResource.Cache
+E:\C#\TFT\UserInfo\obj\Release\UserInfo.exe
+E:\C#\TFT\UserInfo\obj\Release\UserInfo.pdb
+D:\C#\TFT\UserInfo\bin\Release\UserInfo.exe
+D:\C#\TFT\UserInfo\bin\Release\UserInfo.pdb
+D:\C#\TFT\UserInfo\bin\Release\Interop.zkemkeeper.dll
+D:\C#\TFT\UserInfo\obj\Release\ResolveAssemblyReference.cache
+D:\C#\TFT\UserInfo\obj\Release\Interop.zkemkeeper.dll
+D:\C#\TFT\UserInfo\obj\Release\UserInfo.csproj.ResolveComReference.cache
+D:\C#\TFT\UserInfo\obj\Release\UserInfo.UserInfoMain.resources
+D:\C#\TFT\UserInfo\obj\Release\UserInfo.Properties.Resources.resources
+D:\C#\TFT\UserInfo\obj\Release\UserInfo.csproj.GenerateResource.Cache
+D:\C#\TFT\UserInfo\obj\Release\UserInfo.exe
+D:\C#\TFT\UserInfo\obj\Release\UserInfo.pdb
+D:\wince\work\脱机sdk\文档\光盘资料\脱机通讯开发包(32bit Ver6.2.4.1)\Demo\C#\TFT\UserInfo\obj\Release\Interop.zkemkeeper.dll
+D:\wince\work\脱机sdk\文档\光盘资料\脱机通讯开发包(32bit Ver6.2.4.1)\Demo\C#\TFT\UserInfo\obj\Release\UserInfo.csproj.ResolveComReference.cache
+D:\wince\work\脱机sdk\文档\光盘资料\脱机通讯开发包(32bit Ver6.2.4.1)\Demo\C#\TFT\UserInfo\obj\Release\UserInfo.exe
+D:\wince\work\脱机sdk\文档\光盘资料\脱机通讯开发包(32bit Ver6.2.4.1)\Demo\C#\TFT\UserInfo\bin\Release\UserInfo.exe
+D:\wince\work\脱机sdk\文档\光盘资料\脱机通讯开发包(32bit Ver6.2.4.1)\Demo\C#\TFT\UserInfo\bin\Release\UserInfo.pdb
+D:\wince\work\脱机sdk\文档\光盘资料\脱机通讯开发包(32bit Ver6.2.4.1)\Demo\C#\TFT\UserInfo\bin\Release\Interop.zkemkeeper.dll
+D:\wince\work\脱机sdk\文档\光盘资料\脱机通讯开发包(32bit Ver6.2.4.1)\Demo\C#\TFT\UserInfo\obj\Release\ResolveAssemblyReference.cache
+D:\wince\work\脱机sdk\文档\光盘资料\脱机通讯开发包(32bit Ver6.2.4.1)\Demo\C#\TFT\UserInfo\obj\Release\UserInfo.UserInfoMain.resources
+D:\wince\work\脱机sdk\文档\光盘资料\脱机通讯开发包(32bit Ver6.2.4.1)\Demo\C#\TFT\UserInfo\obj\Release\UserInfo.Properties.Resources.resources
+D:\wince\work\脱机sdk\文档\光盘资料\脱机通讯开发包(32bit Ver6.2.4.1)\Demo\C#\TFT\UserInfo\obj\Release\UserInfo.csproj.GenerateResource.Cache
+D:\wince\work\脱机sdk\文档\光盘资料\脱机通讯开发包(32bit Ver6.2.4.1)\Demo\C#\TFT\UserInfo\obj\Release\UserInfo.pdb
+D:\WorkSpace\Repository\GIT\standalonesdkdoc\release\sdk-6.2.5.54\Demo\C#\TFT\UserInfo\obj\Release\Interop.zkemkeeper.dll
+D:\WorkSpace\Repository\GIT\standalonesdkdoc\release\sdk-6.2.5.54\Demo\C#\TFT\UserInfo\obj\Release\UserInfo.csproj.ResolveComReference.cache
+D:\WorkSpace\Repository\GIT\standalonesdkdoc\release\sdk-6.2.5.54\Demo\C#\TFT\UserInfo\obj\Release\UserInfo.exe
+D:\WorkSpace\Repository\GIT\standalonesdkdoc\release\sdk-6.2.5.54\Demo\C#\TFT\UserInfo\obj\Release\UserInfo.pdb

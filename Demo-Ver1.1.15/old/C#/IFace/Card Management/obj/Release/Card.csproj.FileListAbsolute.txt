@@ -1,0 +1,31 @@
+E:\C#\IFace\Card Management\obj\Release\Interop.zkemkeeper.dll
+E:\C#\IFace\Card Management\obj\Release\AxInterop.zkemkeeper.dll
+E:\C#\IFace\Card Management\obj\Release\Card.csproj.ResolveComReference.cache
+E:\C#\IFace\Card Management\bin\Release\CardManagement.exe
+E:\C#\IFace\Card Management\bin\Release\CardManagement.pdb
+E:\C#\IFace\Card Management\bin\Release\Interop.zkemkeeper.dll
+E:\C#\IFace\Card Management\bin\Release\AxInterop.zkemkeeper.dll
+E:\C#\IFace\Card Management\obj\Release\ResolveAssemblyReference.cache
+E:\C#\IFace\Card Management\obj\Release\Card.CardMain.resources
+E:\C#\IFace\Card Management\obj\Release\Card.Properties.Resources.resources
+E:\C#\IFace\Card Management\obj\Release\Card.csproj.GenerateResource.Cache
+E:\C#\IFace\Card Management\obj\Release\CardManagement.exe
+E:\C#\IFace\Card Management\obj\Release\CardManagement.pdb
+D:\wince\work\脱机sdk\文档\光盘资料\脱机通讯开发包(32bit Ver6.2.4.1)\Demo\C#\IFace\Card Management\obj\Release\Interop.zkemkeeper.dll
+D:\wince\work\脱机sdk\文档\光盘资料\脱机通讯开发包(32bit Ver6.2.4.1)\Demo\C#\IFace\Card Management\obj\Release\AxInterop.zkemkeeper.dll
+D:\wince\work\脱机sdk\文档\光盘资料\脱机通讯开发包(32bit Ver6.2.4.1)\Demo\C#\IFace\Card Management\obj\Release\Card.csproj.ResolveComReference.cache
+D:\wince\work\脱机sdk\文档\光盘资料\脱机通讯开发包(32bit Ver6.2.4.1)\Demo\C#\IFace\Card Management\obj\Release\CardManagement.exe
+D:\wince\work\脱机sdk\文档\光盘资料\脱机通讯开发包(32bit Ver6.2.4.1)\Demo\C#\IFace\Card Management\bin\Release\CardManagement.exe
+D:\wince\work\脱机sdk\文档\光盘资料\脱机通讯开发包(32bit Ver6.2.4.1)\Demo\C#\IFace\Card Management\bin\Release\CardManagement.pdb
+D:\wince\work\脱机sdk\文档\光盘资料\脱机通讯开发包(32bit Ver6.2.4.1)\Demo\C#\IFace\Card Management\bin\Release\Interop.zkemkeeper.dll
+D:\wince\work\脱机sdk\文档\光盘资料\脱机通讯开发包(32bit Ver6.2.4.1)\Demo\C#\IFace\Card Management\bin\Release\AxInterop.zkemkeeper.dll
+D:\wince\work\脱机sdk\文档\光盘资料\脱机通讯开发包(32bit Ver6.2.4.1)\Demo\C#\IFace\Card Management\obj\Release\ResolveAssemblyReference.cache
+D:\wince\work\脱机sdk\文档\光盘资料\脱机通讯开发包(32bit Ver6.2.4.1)\Demo\C#\IFace\Card Management\obj\Release\Card.CardMain.resources
+D:\wince\work\脱机sdk\文档\光盘资料\脱机通讯开发包(32bit Ver6.2.4.1)\Demo\C#\IFace\Card Management\obj\Release\Card.Properties.Resources.resources
+D:\wince\work\脱机sdk\文档\光盘资料\脱机通讯开发包(32bit Ver6.2.4.1)\Demo\C#\IFace\Card Management\obj\Release\Card.csproj.GenerateResource.Cache
+D:\wince\work\脱机sdk\文档\光盘资料\脱机通讯开发包(32bit Ver6.2.4.1)\Demo\C#\IFace\Card Management\obj\Release\CardManagement.pdb
+D:\WorkSpace\Repository\GIT\standalonesdkdoc\release\sdk-6.2.5.54\Demo\C#\IFace\Card Management\obj\Release\Interop.zkemkeeper.dll
+D:\WorkSpace\Repository\GIT\standalonesdkdoc\release\sdk-6.2.5.54\Demo\C#\IFace\Card Management\obj\Release\AxInterop.zkemkeeper.dll
+D:\WorkSpace\Repository\GIT\standalonesdkdoc\release\sdk-6.2.5.54\Demo\C#\IFace\Card Management\obj\Release\Card.csproj.ResolveComReference.cache
+D:\WorkSpace\Repository\GIT\standalonesdkdoc\release\sdk-6.2.5.54\Demo\C#\IFace\Card Management\obj\Release\CardManagement.exe
+D:\WorkSpace\Repository\GIT\standalonesdkdoc\release\sdk-6.2.5.54\Demo\C#\IFace\Card Management\obj\Release\CardManagement.pdb

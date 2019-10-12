@@ -1,0 +1,16 @@
+D:\C#\IFace\AttLogs\bin\Release\AttLogs.exe.manifest
+D:\C#\IFace\AttLogs\bin\Release\AttLogs.application
+D:\C#\IFace\AttLogs\bin\Release\AttLogs.exe
+D:\C#\IFace\AttLogs\bin\Release\AttLogs.pdb
+D:\C#\IFace\AttLogs\bin\Release\Interop.zkemkeeper.dll
+D:\C#\IFace\AttLogs\obj\Release\ResolveAssemblyReference.cache
+D:\C#\IFace\AttLogs\obj\Release\Interop.zkemkeeper.dll
+D:\C#\IFace\AttLogs\obj\Release\AttLogs.csproj.ResolveComReference.cache
+D:\C#\IFace\AttLogs\obj\Release\AttLogs.AttLogsMain.resources
+D:\C#\IFace\AttLogs\obj\Release\AttLogs.Properties.Resources.resources
+D:\C#\IFace\AttLogs\obj\Release\AttLogs.csproj.GenerateResource.Cache
+D:\C#\IFace\AttLogs\obj\Release\AttLogs.TrustInfo.xml
+D:\C#\IFace\AttLogs\obj\Release\AttLogs.exe.manifest
+D:\C#\IFace\AttLogs\obj\Release\AttLogs.application
+D:\C#\IFace\AttLogs\obj\Release\AttLogs.exe
+D:\C#\IFace\AttLogs\obj\Release\AttLogs.pdb

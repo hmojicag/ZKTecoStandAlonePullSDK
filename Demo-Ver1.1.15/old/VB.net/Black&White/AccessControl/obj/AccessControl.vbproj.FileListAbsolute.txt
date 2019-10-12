@@ -1,0 +1,54 @@
+D:\projects\SDK\zkfinger\光盘文件\Standalone SDK\Communication Protocol SDK(32Bit)\Demo\VB.net\Black&White\AccessControl\bin\Release\AccessControl.exe.manifest
+D:\projects\SDK\zkfinger\光盘文件\Standalone SDK\Communication Protocol SDK(32Bit)\Demo\VB.net\Black&White\AccessControl\bin\Release\AccessControl.application
+D:\projects\SDK\zkfinger\光盘文件\Standalone SDK\Communication Protocol SDK(32Bit)\Demo\VB.net\Black&White\AccessControl\bin\Release\AccessControl.exe
+D:\projects\SDK\zkfinger\光盘文件\Standalone SDK\Communication Protocol SDK(32Bit)\Demo\VB.net\Black&White\AccessControl\bin\Release\AccessControl.pdb
+D:\projects\SDK\zkfinger\光盘文件\Standalone SDK\Communication Protocol SDK(32Bit)\Demo\VB.net\Black&White\AccessControl\bin\Release\AccessControl.xml
+D:\projects\SDK\zkfinger\光盘文件\Standalone SDK\Communication Protocol SDK(32Bit)\Demo\VB.net\Black&White\AccessControl\bin\Release\Interop.zkemkeeper.dll
+D:\projects\SDK\zkfinger\光盘文件\Standalone SDK\Communication Protocol SDK(32Bit)\Demo\VB.net\Black&White\AccessControl\obj\Release\ResolveAssemblyReference.cache
+D:\projects\SDK\zkfinger\光盘文件\Standalone SDK\Communication Protocol SDK(32Bit)\Demo\VB.net\Black&White\AccessControl\obj\Release\Interop.zkemkeeper.dll
+D:\projects\SDK\zkfinger\光盘文件\Standalone SDK\Communication Protocol SDK(32Bit)\Demo\VB.net\Black&White\AccessControl\obj\Release\AccessControl.vbproj.ResolveComReference.cache
+D:\projects\SDK\zkfinger\光盘文件\Standalone SDK\Communication Protocol SDK(32Bit)\Demo\VB.net\Black&White\AccessControl\obj\Release\AccessControl.AccessControl.resources
+D:\projects\SDK\zkfinger\光盘文件\Standalone SDK\Communication Protocol SDK(32Bit)\Demo\VB.net\Black&White\AccessControl\obj\Release\AccessControl.Resources.resources
+D:\projects\SDK\zkfinger\光盘文件\Standalone SDK\Communication Protocol SDK(32Bit)\Demo\VB.net\Black&White\AccessControl\obj\Release\AccessControl.vbproj.GenerateResource.Cache
+D:\projects\SDK\zkfinger\光盘文件\Standalone SDK\Communication Protocol SDK(32Bit)\Demo\VB.net\Black&White\AccessControl\obj\Release\AccessControl.TrustInfo.xml
+D:\projects\SDK\zkfinger\光盘文件\Standalone SDK\Communication Protocol SDK(32Bit)\Demo\VB.net\Black&White\AccessControl\obj\Release\AccessControl.exe.manifest
+D:\projects\SDK\zkfinger\光盘文件\Standalone SDK\Communication Protocol SDK(32Bit)\Demo\VB.net\Black&White\AccessControl\obj\Release\AccessControl.application
+D:\projects\SDK\zkfinger\光盘文件\Standalone SDK\Communication Protocol SDK(32Bit)\Demo\VB.net\Black&White\AccessControl\obj\Release\AccessControl.exe
+D:\projects\SDK\zkfinger\光盘文件\Standalone SDK\Communication Protocol SDK(32Bit)\Demo\VB.net\Black&White\AccessControl\obj\Release\AccessControl.xml
+D:\projects\SDK\zkfinger\光盘文件\Standalone SDK\Communication Protocol SDK(32Bit)\Demo\VB.net\Black&White\AccessControl\obj\Release\AccessControl.pdb
+D:\projects\SDK\zkfinger\光盘文件\Standalone SDK\Communication Protocol SDK(32Bit Ver6.2.3.9)\Demo\VB.net\Black&White\AccessControl\obj\Release\AccessControl.exe
+D:\projects\SDK\zkfinger\光盘文件\Standalone SDK\Communication Protocol SDK(32Bit Ver6.2.3.9)\Demo\VB.net\Black&White\AccessControl\obj\Release\AccessControl.xml
+D:\projects\SDK\zkfinger\光盘文件\Standalone SDK\Communication Protocol SDK(32Bit Ver6.2.3.9)\Demo\VB.net\Black&White\AccessControl\obj\Release\AccessControl.pdb
+D:\projects\SDK\zkfinger\光盘文件\Standalone SDK\Communication Protocol SDK(32Bit Ver6.2.3.9)\Demo\VB.net\Black&White\AccessControl\bin\Release\AccessControl.exe.manifest
+D:\projects\SDK\zkfinger\光盘文件\Standalone SDK\Communication Protocol SDK(32Bit Ver6.2.3.9)\Demo\VB.net\Black&White\AccessControl\bin\Release\AccessControl.application
+D:\projects\SDK\zkfinger\光盘文件\Standalone SDK\Communication Protocol SDK(32Bit Ver6.2.3.9)\Demo\VB.net\Black&White\AccessControl\bin\Release\AccessControl.exe
+D:\projects\SDK\zkfinger\光盘文件\Standalone SDK\Communication Protocol SDK(32Bit Ver6.2.3.9)\Demo\VB.net\Black&White\AccessControl\bin\Release\AccessControl.pdb
+D:\projects\SDK\zkfinger\光盘文件\Standalone SDK\Communication Protocol SDK(32Bit Ver6.2.3.9)\Demo\VB.net\Black&White\AccessControl\bin\Release\AccessControl.xml
+D:\projects\SDK\zkfinger\光盘文件\Standalone SDK\Communication Protocol SDK(32Bit Ver6.2.3.9)\Demo\VB.net\Black&White\AccessControl\bin\Release\Interop.zkemkeeper.dll
+D:\projects\SDK\zkfinger\光盘文件\Standalone SDK\Communication Protocol SDK(32Bit Ver6.2.3.9)\Demo\VB.net\Black&White\AccessControl\obj\Release\ResolveAssemblyReference.cache
+D:\projects\SDK\zkfinger\光盘文件\Standalone SDK\Communication Protocol SDK(32Bit Ver6.2.3.9)\Demo\VB.net\Black&White\AccessControl\obj\Release\Interop.zkemkeeper.dll
+D:\projects\SDK\zkfinger\光盘文件\Standalone SDK\Communication Protocol SDK(32Bit Ver6.2.3.9)\Demo\VB.net\Black&White\AccessControl\obj\Release\AccessControl.vbproj.ResolveComReference.cache
+D:\projects\SDK\zkfinger\光盘文件\Standalone SDK\Communication Protocol SDK(32Bit Ver6.2.3.9)\Demo\VB.net\Black&White\AccessControl\obj\Release\AccessControl.AccessControl.resources
+D:\projects\SDK\zkfinger\光盘文件\Standalone SDK\Communication Protocol SDK(32Bit Ver6.2.3.9)\Demo\VB.net\Black&White\AccessControl\obj\Release\AccessControl.Resources.resources
+D:\projects\SDK\zkfinger\光盘文件\Standalone SDK\Communication Protocol SDK(32Bit Ver6.2.3.9)\Demo\VB.net\Black&White\AccessControl\obj\Release\AccessControl.vbproj.GenerateResource.Cache
+D:\projects\SDK\zkfinger\光盘文件\Standalone SDK\Communication Protocol SDK(32Bit Ver6.2.3.9)\Demo\VB.net\Black&White\AccessControl\obj\Release\AccessControl.TrustInfo.xml
+D:\projects\SDK\zkfinger\光盘文件\Standalone SDK\Communication Protocol SDK(32Bit Ver6.2.3.9)\Demo\VB.net\Black&White\AccessControl\obj\Release\AccessControl.exe.manifest
+D:\projects\SDK\zkfinger\光盘文件\Standalone SDK\Communication Protocol SDK(32Bit Ver6.2.3.9)\Demo\VB.net\Black&White\AccessControl\obj\Release\AccessControl.application
+D:\projects\SDK\zkfinger\光盘文件\Standalone SDK\Communication Protocol SDK(32Bit Ver6.2.3.9)\Demo\VB.net\Black&White\AccessControl\bin\x86\Release\AccessControl.exe.manifest
+D:\projects\SDK\zkfinger\光盘文件\Standalone SDK\Communication Protocol SDK(32Bit Ver6.2.3.9)\Demo\VB.net\Black&White\AccessControl\bin\x86\Release\AccessControl.application
+D:\projects\SDK\zkfinger\光盘文件\Standalone SDK\Communication Protocol SDK(32Bit Ver6.2.3.9)\Demo\VB.net\Black&White\AccessControl\bin\x86\Release\AccessControl.exe
+D:\projects\SDK\zkfinger\光盘文件\Standalone SDK\Communication Protocol SDK(32Bit Ver6.2.3.9)\Demo\VB.net\Black&White\AccessControl\bin\x86\Release\AccessControl.pdb
+D:\projects\SDK\zkfinger\光盘文件\Standalone SDK\Communication Protocol SDK(32Bit Ver6.2.3.9)\Demo\VB.net\Black&White\AccessControl\bin\x86\Release\AccessControl.xml
+D:\projects\SDK\zkfinger\光盘文件\Standalone SDK\Communication Protocol SDK(32Bit Ver6.2.3.9)\Demo\VB.net\Black&White\AccessControl\bin\x86\Release\Interop.zkemkeeper.dll
+D:\projects\SDK\zkfinger\光盘文件\Standalone SDK\Communication Protocol SDK(32Bit Ver6.2.3.9)\Demo\VB.net\Black&White\AccessControl\obj\x86\Release\ResolveAssemblyReference.cache
+D:\projects\SDK\zkfinger\光盘文件\Standalone SDK\Communication Protocol SDK(32Bit Ver6.2.3.9)\Demo\VB.net\Black&White\AccessControl\obj\x86\Release\Interop.zkemkeeper.dll
+D:\projects\SDK\zkfinger\光盘文件\Standalone SDK\Communication Protocol SDK(32Bit Ver6.2.3.9)\Demo\VB.net\Black&White\AccessControl\obj\x86\Release\AccessControl.vbproj.ResolveComReference.cache
+D:\projects\SDK\zkfinger\光盘文件\Standalone SDK\Communication Protocol SDK(32Bit Ver6.2.3.9)\Demo\VB.net\Black&White\AccessControl\obj\x86\Release\AccessControl.AccessControl.resources
+D:\projects\SDK\zkfinger\光盘文件\Standalone SDK\Communication Protocol SDK(32Bit Ver6.2.3.9)\Demo\VB.net\Black&White\AccessControl\obj\x86\Release\AccessControl.Resources.resources
+D:\projects\SDK\zkfinger\光盘文件\Standalone SDK\Communication Protocol SDK(32Bit Ver6.2.3.9)\Demo\VB.net\Black&White\AccessControl\obj\x86\Release\AccessControl.vbproj.GenerateResource.Cache
+D:\projects\SDK\zkfinger\光盘文件\Standalone SDK\Communication Protocol SDK(32Bit Ver6.2.3.9)\Demo\VB.net\Black&White\AccessControl\obj\x86\Release\AccessControl.TrustInfo.xml
+D:\projects\SDK\zkfinger\光盘文件\Standalone SDK\Communication Protocol SDK(32Bit Ver6.2.3.9)\Demo\VB.net\Black&White\AccessControl\obj\x86\Release\AccessControl.exe.manifest
+D:\projects\SDK\zkfinger\光盘文件\Standalone SDK\Communication Protocol SDK(32Bit Ver6.2.3.9)\Demo\VB.net\Black&White\AccessControl\obj\x86\Release\AccessControl.application
+D:\projects\SDK\zkfinger\光盘文件\Standalone SDK\Communication Protocol SDK(32Bit Ver6.2.3.9)\Demo\VB.net\Black&White\AccessControl\obj\x86\Release\AccessControl.exe
+D:\projects\SDK\zkfinger\光盘文件\Standalone SDK\Communication Protocol SDK(32Bit Ver6.2.3.9)\Demo\VB.net\Black&White\AccessControl\obj\x86\Release\AccessControl.xml
+D:\projects\SDK\zkfinger\光盘文件\Standalone SDK\Communication Protocol SDK(32Bit Ver6.2.3.9)\Demo\VB.net\Black&White\AccessControl\obj\x86\Release\AccessControl.pdb

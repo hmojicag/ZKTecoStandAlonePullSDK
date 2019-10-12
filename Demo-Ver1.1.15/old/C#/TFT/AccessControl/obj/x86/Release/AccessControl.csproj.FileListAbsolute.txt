@@ -1,0 +1,26 @@
+D:\wince\work\脱机sdk\文档\光盘资料\脱机通讯开发包(32bit Ver6.2.4.1)\Demo\C#\TFT\AccessControl\obj\x86\Release\Interop.zkemkeeper.dll
+D:\wince\work\脱机sdk\文档\光盘资料\脱机通讯开发包(32bit Ver6.2.4.1)\Demo\C#\TFT\AccessControl\obj\x86\Release\AccessControl.csproj.ResolveComReference.cache
+D:\wince\work\脱机sdk\文档\光盘资料\脱机通讯开发包(32bit Ver6.2.4.1)\Demo\C#\TFT\AccessControl\bin\x86\Release\AccessControl.exe
+D:\wince\work\脱机sdk\文档\光盘资料\脱机通讯开发包(32bit Ver6.2.4.1)\Demo\C#\TFT\AccessControl\bin\x86\Release\AccessControl.pdb
+D:\wince\work\脱机sdk\文档\光盘资料\脱机通讯开发包(32bit Ver6.2.4.1)\Demo\C#\TFT\AccessControl\bin\x86\Release\Interop.zkemkeeper.dll
+D:\wince\work\脱机sdk\文档\光盘资料\脱机通讯开发包(32bit Ver6.2.4.1)\Demo\C#\TFT\AccessControl\obj\x86\Release\ResolveAssemblyReference.cache
+D:\wince\work\脱机sdk\文档\光盘资料\脱机通讯开发包(32bit Ver6.2.4.1)\Demo\C#\TFT\AccessControl\obj\x86\Release\AccessControl.ACMain.resources
+D:\wince\work\脱机sdk\文档\光盘资料\脱机通讯开发包(32bit Ver6.2.4.1)\Demo\C#\TFT\AccessControl\obj\x86\Release\AccessControl.Properties.Resources.resources
+D:\wince\work\脱机sdk\文档\光盘资料\脱机通讯开发包(32bit Ver6.2.4.1)\Demo\C#\TFT\AccessControl\obj\x86\Release\AccessControl.csproj.GenerateResource.Cache
+D:\wince\work\脱机sdk\文档\光盘资料\脱机通讯开发包(32bit Ver6.2.4.1)\Demo\C#\TFT\AccessControl\obj\x86\Release\AccessControl.exe
+D:\wince\work\脱机sdk\文档\光盘资料\脱机通讯开发包(32bit Ver6.2.4.1)\Demo\C#\TFT\AccessControl\obj\x86\Release\AccessControl.pdb
+G:\work\脱机sdk\sdk6.2.4.7\发送Document\Communication Protocol SDK(32Bit Ver6.2.4.11)\Demo\C#\TFT\AccessControl\obj\x86\Release\Interop.zkemkeeper.dll
+G:\work\脱机sdk\sdk6.2.4.7\发送Document\Communication Protocol SDK(32Bit Ver6.2.4.11)\Demo\C#\TFT\AccessControl\obj\x86\Release\AccessControl.csproj.ResolveComReference.cache
+G:\work\脱机sdk\sdk6.2.4.7\发送Document\Communication Protocol SDK(32Bit Ver6.2.4.11)\Demo\C#\TFT\AccessControl\obj\x86\Release\AccessControl.exe
+G:\work\脱机sdk\sdk6.2.4.7\发送Document\Communication Protocol SDK(32Bit Ver6.2.4.11)\Demo\C#\TFT\AccessControl\obj\x86\Release\AccessControl.pdb
+D:\WorkSpace\Repository\GIT\standalonesdkdoc\release\sdk-6.2.5.54\Demo\C#\TFT\AccessControl\obj\x86\Release\Interop.zkemkeeper.dll
+D:\WorkSpace\Repository\GIT\standalonesdkdoc\release\sdk-6.2.5.54\Demo\C#\TFT\AccessControl\obj\x86\Release\AccessControl.csproj.ResolveComReference.cache
+D:\WorkSpace\Repository\GIT\standalonesdkdoc\release\sdk-6.2.5.54\Demo\C#\TFT\AccessControl\obj\x86\Release\AccessControl.exe
+D:\WorkSpace\Repository\GIT\standalonesdkdoc\release\sdk-6.2.5.54\Demo\C#\TFT\AccessControl\obj\x86\Release\AccessControl.pdb
+D:\WorkSpace\Repository\GIT\standalonesdkdoc\release\sdk-6.2.5.54\Demo\C#\TFT\AccessControl\bin\x86\Release\AccessControl.exe
+D:\WorkSpace\Repository\GIT\standalonesdkdoc\release\sdk-6.2.5.54\Demo\C#\TFT\AccessControl\bin\x86\Release\AccessControl.pdb
+D:\WorkSpace\Repository\GIT\standalonesdkdoc\release\sdk-6.2.5.54\Demo\C#\TFT\AccessControl\bin\x86\Release\Interop.zkemkeeper.dll
+D:\WorkSpace\Repository\GIT\standalonesdkdoc\release\sdk-6.2.5.54\Demo\C#\TFT\AccessControl\obj\x86\Release\ResolveAssemblyReference.cache
+D:\WorkSpace\Repository\GIT\standalonesdkdoc\release\sdk-6.2.5.54\Demo\C#\TFT\AccessControl\obj\x86\Release\AccessControl.ACMain.resources
+D:\WorkSpace\Repository\GIT\standalonesdkdoc\release\sdk-6.2.5.54\Demo\C#\TFT\AccessControl\obj\x86\Release\AccessControl.Properties.Resources.resources
+D:\WorkSpace\Repository\GIT\standalonesdkdoc\release\sdk-6.2.5.54\Demo\C#\TFT\AccessControl\obj\x86\Release\AccessControl.csproj.GenerateResource.Cache

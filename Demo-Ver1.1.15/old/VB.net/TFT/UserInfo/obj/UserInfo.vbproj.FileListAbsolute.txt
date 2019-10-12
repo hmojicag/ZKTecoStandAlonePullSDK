@@ -1,0 +1,16 @@
+D:\projects\SDK\zkfinger\光盘文件\Standalone SDK\Communication Protocol SDK(32Bit Ver6.2.3.9)\Demo\VB.net\TFT\UserInfo\bin\x86\Release\UserInfo.exe
+D:\projects\SDK\zkfinger\光盘文件\Standalone SDK\Communication Protocol SDK(32Bit Ver6.2.3.9)\Demo\VB.net\TFT\UserInfo\bin\x86\Release\UserInfo.pdb
+D:\projects\SDK\zkfinger\光盘文件\Standalone SDK\Communication Protocol SDK(32Bit Ver6.2.3.9)\Demo\VB.net\TFT\UserInfo\bin\x86\Release\UserInfo.xml
+D:\projects\SDK\zkfinger\光盘文件\Standalone SDK\Communication Protocol SDK(32Bit Ver6.2.3.9)\Demo\VB.net\TFT\UserInfo\bin\x86\Release\Interop.zkemkeeper.dll
+D:\projects\SDK\zkfinger\光盘文件\Standalone SDK\Communication Protocol SDK(32Bit Ver6.2.3.9)\Demo\VB.net\TFT\UserInfo\obj\x86\Release\ResolveAssemblyReference.cache
+D:\projects\SDK\zkfinger\光盘文件\Standalone SDK\Communication Protocol SDK(32Bit Ver6.2.3.9)\Demo\VB.net\TFT\UserInfo\obj\x86\Release\Interop.zkemkeeper.dll
+D:\projects\SDK\zkfinger\光盘文件\Standalone SDK\Communication Protocol SDK(32Bit Ver6.2.3.9)\Demo\VB.net\TFT\UserInfo\obj\x86\Release\UserInfo.vbproj.ResolveComReference.cache
+D:\projects\SDK\zkfinger\光盘文件\Standalone SDK\Communication Protocol SDK(32Bit Ver6.2.3.9)\Demo\VB.net\TFT\UserInfo\obj\x86\Release\UserInfo.UserInfo.resources
+D:\projects\SDK\zkfinger\光盘文件\Standalone SDK\Communication Protocol SDK(32Bit Ver6.2.3.9)\Demo\VB.net\TFT\UserInfo\obj\x86\Release\UserInfo.Resources.resources
+D:\projects\SDK\zkfinger\光盘文件\Standalone SDK\Communication Protocol SDK(32Bit Ver6.2.3.9)\Demo\VB.net\TFT\UserInfo\obj\x86\Release\UserInfo.vbproj.GenerateResource.Cache
+D:\projects\SDK\zkfinger\光盘文件\Standalone SDK\Communication Protocol SDK(32Bit Ver6.2.3.9)\Demo\VB.net\TFT\UserInfo\obj\x86\Release\UserInfo.exe
+D:\projects\SDK\zkfinger\光盘文件\Standalone SDK\Communication Protocol SDK(32Bit Ver6.2.3.9)\Demo\VB.net\TFT\UserInfo\obj\x86\Release\UserInfo.xml
+D:\projects\SDK\zkfinger\光盘文件\Standalone SDK\Communication Protocol SDK(32Bit Ver6.2.3.9)\Demo\VB.net\TFT\UserInfo\obj\x86\Release\UserInfo.pdb
+D:\projects\SDK\zkfinger\光盘文件\Standalone SDK\脱机通讯开发包(32bit Ver6.2.3.9)\Demo\VB.net\TFT\UserInfo\obj\x86\Release\UserInfo.exe
+D:\projects\SDK\zkfinger\光盘文件\Standalone SDK\脱机通讯开发包(32bit Ver6.2.3.9)\Demo\VB.net\TFT\UserInfo\obj\x86\Release\UserInfo.xml
+D:\projects\SDK\zkfinger\光盘文件\Standalone SDK\脱机通讯开发包(32bit Ver6.2.3.9)\Demo\VB.net\TFT\UserInfo\obj\x86\Release\UserInfo.pdb

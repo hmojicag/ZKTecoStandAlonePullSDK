@@ -1,0 +1,15 @@
+E:\C#\TFT\AttLogs\obj\Debug\Interop.zkemkeeper.dll
+E:\C#\TFT\AttLogs\obj\Debug\AttLogs.csproj.ResolveComReference.cache
+C:\Users\hm24656\Downloads\standalone+sdk-6.3.1.37-doc-2.1.0-demo-1.1.15\Demo-Ver1.1.15\old\C#\TFT\AttLogs\bin\Debug\AttLogs.exe
+C:\Users\hm24656\Downloads\standalone+sdk-6.3.1.37-doc-2.1.0-demo-1.1.15\Demo-Ver1.1.15\old\C#\TFT\AttLogs\bin\Debug\AttLogs.pdb
+C:\Users\hm24656\Downloads\standalone+sdk-6.3.1.37-doc-2.1.0-demo-1.1.15\Demo-Ver1.1.15\old\C#\TFT\AttLogs\bin\Debug\Interop.zkemkeeper.dll
+C:\Users\hm24656\Downloads\standalone+sdk-6.3.1.37-doc-2.1.0-demo-1.1.15\Demo-Ver1.1.15\old\C#\TFT\AttLogs\obj\Debug\Interop.zkemkeeper.dll
+C:\Users\hm24656\Downloads\standalone+sdk-6.3.1.37-doc-2.1.0-demo-1.1.15\Demo-Ver1.1.15\old\C#\TFT\AttLogs\obj\Debug\AttLogs.csproj.ResolveComReference.cache
+C:\Users\hm24656\Downloads\standalone+sdk-6.3.1.37-doc-2.1.0-demo-1.1.15\Demo-Ver1.1.15\old\C#\TFT\AttLogs\obj\Debug\AttLogs.AttLogsMain.resources
+C:\Users\hm24656\Downloads\standalone+sdk-6.3.1.37-doc-2.1.0-demo-1.1.15\Demo-Ver1.1.15\old\C#\TFT\AttLogs\obj\Debug\AttLogs.Properties.Resources.resources
+C:\Users\hm24656\Downloads\standalone+sdk-6.3.1.37-doc-2.1.0-demo-1.1.15\Demo-Ver1.1.15\old\C#\TFT\AttLogs\obj\Debug\AttLogs.csproj.GenerateResource.Cache
+C:\Users\hm24656\Downloads\standalone+sdk-6.3.1.37-doc-2.1.0-demo-1.1.15\Demo-Ver1.1.15\old\C#\TFT\AttLogs\obj\Debug\AttLogs.csproj.CoreCompileInputs.cache
+C:\Users\hm24656\Downloads\standalone+sdk-6.3.1.37-doc-2.1.0-demo-1.1.15\Demo-Ver1.1.15\old\C#\TFT\AttLogs\obj\Debug\AttLogs.exe
+C:\Users\hm24656\Downloads\standalone+sdk-6.3.1.37-doc-2.1.0-demo-1.1.15\Demo-Ver1.1.15\old\C#\TFT\AttLogs\obj\Debug\AttLogs.pdb
+C:\Users\hm24656\Downloads\standalone+sdk-6.3.1.37-doc-2.1.0-demo-1.1.15\Demo-Ver1.1.15\old\C#\TFT\AttLogs\obj\Debug\AttLogs.csprojResolveAssemblyReference.cache
+C:\Users\hm24656\Downloads\standalone+sdk-6.3.1.37-doc-2.1.0-demo-1.1.15\Demo-Ver1.1.15\old\C#\TFT\AttLogs\bin\Debug\AttLogs.exe.config

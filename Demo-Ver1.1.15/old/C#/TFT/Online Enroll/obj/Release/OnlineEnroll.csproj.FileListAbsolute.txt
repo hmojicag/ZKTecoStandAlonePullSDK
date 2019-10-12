@@ -1,0 +1,26 @@
+E:\C#\TFT\Online Enroll\obj\Release\Interop.zkemkeeper.dll
+E:\C#\TFT\Online Enroll\obj\Release\OnlineEnroll.csproj.ResolveComReference.cache
+E:\C#\TFT\Online Enroll\bin\Release\OnlineEnroll.exe
+E:\C#\TFT\Online Enroll\bin\Release\OnlineEnroll.pdb
+E:\C#\TFT\Online Enroll\bin\Release\Interop.zkemkeeper.dll
+E:\C#\TFT\Online Enroll\obj\Release\ResolveAssemblyReference.cache
+E:\C#\TFT\Online Enroll\obj\Release\OnlineEnroll.OnEnrollMain.resources
+E:\C#\TFT\Online Enroll\obj\Release\OnlineEnroll.Properties.Resources.resources
+E:\C#\TFT\Online Enroll\obj\Release\OnlineEnroll.csproj.GenerateResource.Cache
+E:\C#\TFT\Online Enroll\obj\Release\OnlineEnroll.exe
+E:\C#\TFT\Online Enroll\obj\Release\OnlineEnroll.pdb
+D:\wince\work\脱机sdk\文档\光盘资料\脱机通讯开发包(32bit Ver6.2.4.1)\Demo\C#\TFT\Online Enroll\obj\Release\Interop.zkemkeeper.dll
+D:\wince\work\脱机sdk\文档\光盘资料\脱机通讯开发包(32bit Ver6.2.4.1)\Demo\C#\TFT\Online Enroll\obj\Release\OnlineEnroll.csproj.ResolveComReference.cache
+D:\wince\work\脱机sdk\文档\光盘资料\脱机通讯开发包(32bit Ver6.2.4.1)\Demo\C#\TFT\Online Enroll\obj\Release\OnlineEnroll.exe
+D:\wince\work\脱机sdk\文档\光盘资料\脱机通讯开发包(32bit Ver6.2.4.1)\Demo\C#\TFT\Online Enroll\obj\Release\ResolveAssemblyReference.cache
+D:\wince\work\脱机sdk\文档\光盘资料\脱机通讯开发包(32bit Ver6.2.4.1)\Demo\C#\TFT\Online Enroll\obj\Release\OnlineEnroll.OnEnrollMain.resources
+D:\wince\work\脱机sdk\文档\光盘资料\脱机通讯开发包(32bit Ver6.2.4.1)\Demo\C#\TFT\Online Enroll\obj\Release\OnlineEnroll.Properties.Resources.resources
+D:\wince\work\脱机sdk\文档\光盘资料\脱机通讯开发包(32bit Ver6.2.4.1)\Demo\C#\TFT\Online Enroll\obj\Release\OnlineEnroll.csproj.GenerateResource.Cache
+D:\wince\work\脱机sdk\文档\光盘资料\脱机通讯开发包(32bit Ver6.2.4.1)\Demo\C#\TFT\Online Enroll\bin\Release\OnlineEnroll.exe
+D:\wince\work\脱机sdk\文档\光盘资料\脱机通讯开发包(32bit Ver6.2.4.1)\Demo\C#\TFT\Online Enroll\bin\Release\OnlineEnroll.pdb
+D:\wince\work\脱机sdk\文档\光盘资料\脱机通讯开发包(32bit Ver6.2.4.1)\Demo\C#\TFT\Online Enroll\bin\Release\Interop.zkemkeeper.dll
+D:\wince\work\脱机sdk\文档\光盘资料\脱机通讯开发包(32bit Ver6.2.4.1)\Demo\C#\TFT\Online Enroll\obj\Release\OnlineEnroll.pdb
+D:\WorkSpace\Repository\GIT\standalonesdkdoc\release\sdk-6.2.5.54\Demo\C#\TFT\Online Enroll\obj\Release\Interop.zkemkeeper.dll
+D:\WorkSpace\Repository\GIT\standalonesdkdoc\release\sdk-6.2.5.54\Demo\C#\TFT\Online Enroll\obj\Release\OnlineEnroll.csproj.ResolveComReference.cache
+D:\WorkSpace\Repository\GIT\standalonesdkdoc\release\sdk-6.2.5.54\Demo\C#\TFT\Online Enroll\obj\Release\OnlineEnroll.exe
+D:\WorkSpace\Repository\GIT\standalonesdkdoc\release\sdk-6.2.5.54\Demo\C#\TFT\Online Enroll\obj\Release\OnlineEnroll.pdb

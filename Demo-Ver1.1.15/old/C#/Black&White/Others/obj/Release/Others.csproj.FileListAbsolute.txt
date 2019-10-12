@@ -1,0 +1,26 @@
+E:\C#\Black&White\Others\obj\Release\Interop.zkemkeeper.dll
+E:\C#\Black&White\Others\obj\Release\Others.csproj.ResolveComReference.cache
+E:\C#\Black&White\Others\bin\Release\Others.exe
+E:\C#\Black&White\Others\bin\Release\Others.pdb
+E:\C#\Black&White\Others\bin\Release\Interop.zkemkeeper.dll
+E:\C#\Black&White\Others\obj\Release\ResolveAssemblyReference.cache
+E:\C#\Black&White\Others\obj\Release\Others.OthersMain.resources
+E:\C#\Black&White\Others\obj\Release\Others.Properties.Resources.resources
+E:\C#\Black&White\Others\obj\Release\Others.csproj.GenerateResource.Cache
+E:\C#\Black&White\Others\obj\Release\Others.exe
+E:\C#\Black&White\Others\obj\Release\Others.pdb
+D:\wince\work\脱机sdk\文档\光盘资料\脱机通讯开发包(32bit Ver6.2.4.1)\Demo\C#\Black&White\Others\obj\Release\Interop.zkemkeeper.dll
+D:\wince\work\脱机sdk\文档\光盘资料\脱机通讯开发包(32bit Ver6.2.4.1)\Demo\C#\Black&White\Others\obj\Release\Others.csproj.ResolveComReference.cache
+D:\wince\work\脱机sdk\文档\光盘资料\脱机通讯开发包(32bit Ver6.2.4.1)\Demo\C#\Black&White\Others\obj\Release\Others.exe
+D:\wince\work\脱机sdk\文档\光盘资料\脱机通讯开发包(32bit Ver6.2.4.1)\Demo\C#\Black&White\Others\bin\Release\Others.exe
+D:\wince\work\脱机sdk\文档\光盘资料\脱机通讯开发包(32bit Ver6.2.4.1)\Demo\C#\Black&White\Others\bin\Release\Others.pdb
+D:\wince\work\脱机sdk\文档\光盘资料\脱机通讯开发包(32bit Ver6.2.4.1)\Demo\C#\Black&White\Others\bin\Release\Interop.zkemkeeper.dll
+D:\wince\work\脱机sdk\文档\光盘资料\脱机通讯开发包(32bit Ver6.2.4.1)\Demo\C#\Black&White\Others\obj\Release\ResolveAssemblyReference.cache
+D:\wince\work\脱机sdk\文档\光盘资料\脱机通讯开发包(32bit Ver6.2.4.1)\Demo\C#\Black&White\Others\obj\Release\Others.OthersMain.resources
+D:\wince\work\脱机sdk\文档\光盘资料\脱机通讯开发包(32bit Ver6.2.4.1)\Demo\C#\Black&White\Others\obj\Release\Others.Properties.Resources.resources
+D:\wince\work\脱机sdk\文档\光盘资料\脱机通讯开发包(32bit Ver6.2.4.1)\Demo\C#\Black&White\Others\obj\Release\Others.csproj.GenerateResource.Cache
+D:\wince\work\脱机sdk\文档\光盘资料\脱机通讯开发包(32bit Ver6.2.4.1)\Demo\C#\Black&White\Others\obj\Release\Others.pdb
+D:\WorkSpace\Repository\GIT\standalonesdkdoc\release\sdk-6.2.5.54\Demo\C#\Black&White\Others\obj\Release\Interop.zkemkeeper.dll
+D:\WorkSpace\Repository\GIT\standalonesdkdoc\release\sdk-6.2.5.54\Demo\C#\Black&White\Others\obj\Release\Others.csproj.ResolveComReference.cache
+D:\WorkSpace\Repository\GIT\standalonesdkdoc\release\sdk-6.2.5.54\Demo\C#\Black&White\Others\obj\Release\Others.exe
+D:\WorkSpace\Repository\GIT\standalonesdkdoc\release\sdk-6.2.5.54\Demo\C#\Black&White\Others\obj\Release\Others.pdb

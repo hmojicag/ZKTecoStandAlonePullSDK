@@ -1,0 +1,26 @@
+D:\wince\work\脱机sdk\文档\光盘资料\脱机通讯开发包(32bit Ver6.2.4.1)\Demo\C#\TFT\PullSpecialInterface\obj\Debug\ResolveAssemblyReference.cache
+D:\wince\work\脱机sdk\文档\光盘资料\脱机通讯开发包(32bit Ver6.2.4.1)\Demo\C#\TFT\PullSpecialInterface\obj\Debug\Interop.zkemkeeper.dll
+D:\wince\work\脱机sdk\文档\光盘资料\脱机通讯开发包(32bit Ver6.2.4.1)\Demo\C#\TFT\PullSpecialInterface\obj\Debug\PullSpecial.csproj.ResolveComReference.cache
+D:\wince\work\脱机sdk\文档\光盘资料\脱机通讯开发包(32bit Ver6.2.4.1)\Demo\C#\TFT\PullSpecialInterface\obj\Debug\PullSpecial.PullSpecialMain.resources
+D:\wince\work\脱机sdk\文档\光盘资料\脱机通讯开发包(32bit Ver6.2.4.1)\Demo\C#\TFT\PullSpecialInterface\obj\Debug\PullSpecial.Properties.Resources.resources
+D:\wince\work\脱机sdk\文档\光盘资料\脱机通讯开发包(32bit Ver6.2.4.1)\Demo\C#\TFT\PullSpecialInterface\obj\Debug\PullSpecial.csproj.GenerateResource.Cache
+D:\wince\work\脱机sdk\文档\光盘资料\脱机通讯开发包(32bit Ver6.2.4.1)\Demo\C#\TFT\PullSpecialInterface\bin\Debug\PullSpecial.exe
+D:\wince\work\脱机sdk\文档\光盘资料\脱机通讯开发包(32bit Ver6.2.4.1)\Demo\C#\TFT\PullSpecialInterface\bin\Debug\PullSpecial.pdb
+D:\wince\work\脱机sdk\文档\光盘资料\脱机通讯开发包(32bit Ver6.2.4.1)\Demo\C#\TFT\PullSpecialInterface\bin\Debug\Interop.zkemkeeper.dll
+D:\wince\work\脱机sdk\文档\光盘资料\脱机通讯开发包(32bit Ver6.2.4.1)\Demo\C#\TFT\PullSpecialInterface\obj\Debug\PullSpecial.exe
+D:\wince\work\脱机sdk\文档\光盘资料\脱机通讯开发包(32bit Ver6.2.4.1)\Demo\C#\TFT\PullSpecialInterface\obj\Debug\PullSpecial.pdb
+G:\work\脱机sdk\sdk6.2.4.7\发送Document\Communication Protocol SDK(32Bit Ver6.2.4.11)\Demo\C#\TFT\PullSpecialInterface\obj\Debug\Interop.zkemkeeper.dll
+G:\work\脱机sdk\sdk6.2.4.7\发送Document\Communication Protocol SDK(32Bit Ver6.2.4.11)\Demo\C#\TFT\PullSpecialInterface\obj\Debug\PullSpecial.csproj.ResolveComReference.cache
+G:\work\脱机sdk\sdk6.2.4.7\发送Document\Communication Protocol SDK(32Bit Ver6.2.4.11)\Demo\C#\TFT\PullSpecialInterface\obj\Debug\PullSpecial.exe
+G:\work\脱机sdk\sdk6.2.4.7\发送Document\Communication Protocol SDK(32Bit Ver6.2.4.11)\Demo\C#\TFT\PullSpecialInterface\obj\Debug\PullSpecial.pdb
+D:\WorkSpace\Repository\GIT\standalonesdkdoc\release\sdk-6.2.5.54\Demo\C#\TFT\PullSpecialInterface\obj\Debug\Interop.zkemkeeper.dll
+D:\WorkSpace\Repository\GIT\standalonesdkdoc\release\sdk-6.2.5.54\Demo\C#\TFT\PullSpecialInterface\obj\Debug\PullSpecial.csproj.ResolveComReference.cache
+D:\WorkSpace\Repository\GIT\standalonesdkdoc\release\sdk-6.2.5.54\Demo\C#\TFT\PullSpecialInterface\obj\Debug\PullSpecial.exe
+D:\WorkSpace\Repository\GIT\standalonesdkdoc\release\sdk-6.2.5.54\Demo\C#\TFT\PullSpecialInterface\obj\Debug\PullSpecial.pdb
+D:\WorkSpace\Repository\GIT\standalonesdkdoc\release\sdk-6.2.5.54\Demo\C#\TFT\PullSpecialInterface\bin\Debug\PullSpecial.exe
+D:\WorkSpace\Repository\GIT\standalonesdkdoc\release\sdk-6.2.5.54\Demo\C#\TFT\PullSpecialInterface\bin\Debug\PullSpecial.pdb
+D:\WorkSpace\Repository\GIT\standalonesdkdoc\release\sdk-6.2.5.54\Demo\C#\TFT\PullSpecialInterface\bin\Debug\Interop.zkemkeeper.dll
+D:\WorkSpace\Repository\GIT\standalonesdkdoc\release\sdk-6.2.5.54\Demo\C#\TFT\PullSpecialInterface\obj\Debug\ResolveAssemblyReference.cache
+D:\WorkSpace\Repository\GIT\standalonesdkdoc\release\sdk-6.2.5.54\Demo\C#\TFT\PullSpecialInterface\obj\Debug\PullSpecial.PullSpecialMain.resources
+D:\WorkSpace\Repository\GIT\standalonesdkdoc\release\sdk-6.2.5.54\Demo\C#\TFT\PullSpecialInterface\obj\Debug\PullSpecial.Properties.Resources.resources
+D:\WorkSpace\Repository\GIT\standalonesdkdoc\release\sdk-6.2.5.54\Demo\C#\TFT\PullSpecialInterface\obj\Debug\PullSpecial.csproj.GenerateResource.Cache

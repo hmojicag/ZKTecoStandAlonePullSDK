@@ -1,0 +1,30 @@
+D:\wince\work\脱机sdk\sdk6.2.4.7\Document\脱机通讯开发包(32bit Ver6.2.4.11)\Demo\C#\TFT\UserPhto\obj\Release\Interop.zkemkeeper.dll
+D:\wince\work\脱机sdk\sdk6.2.4.7\Document\脱机通讯开发包(32bit Ver6.2.4.11)\Demo\C#\TFT\UserPhto\obj\Release\UserPhoto.csproj.ResolveComReference.cache
+D:\wince\work\脱机sdk\sdk6.2.4.7\Document\脱机通讯开发包(32bit Ver6.2.4.11)\Demo\C#\TFT\UserPhto\bin\Release\UserPhoto.exe
+D:\wince\work\脱机sdk\sdk6.2.4.7\Document\脱机通讯开发包(32bit Ver6.2.4.11)\Demo\C#\TFT\UserPhto\bin\Release\UserPhoto.pdb
+D:\wince\work\脱机sdk\sdk6.2.4.7\Document\脱机通讯开发包(32bit Ver6.2.4.11)\Demo\C#\TFT\UserPhto\bin\Release\Interop.zkemkeeper.dll
+D:\wince\work\脱机sdk\sdk6.2.4.7\Document\脱机通讯开发包(32bit Ver6.2.4.11)\Demo\C#\TFT\UserPhto\obj\Release\ResolveAssemblyReference.cache
+D:\wince\work\脱机sdk\sdk6.2.4.7\Document\脱机通讯开发包(32bit Ver6.2.4.11)\Demo\C#\TFT\UserPhto\obj\Release\UserPhoto.UserPhotoMain.resources
+D:\wince\work\脱机sdk\sdk6.2.4.7\Document\脱机通讯开发包(32bit Ver6.2.4.11)\Demo\C#\TFT\UserPhto\obj\Release\UserPhoto.Properties.Resources.resources
+D:\wince\work\脱机sdk\sdk6.2.4.7\Document\脱机通讯开发包(32bit Ver6.2.4.11)\Demo\C#\TFT\UserPhto\obj\Release\UserPhoto.csproj.GenerateResource.Cache
+D:\wince\work\脱机sdk\sdk6.2.4.7\Document\脱机通讯开发包(32bit Ver6.2.4.11)\Demo\C#\TFT\UserPhto\obj\Release\UserPhoto.exe
+D:\wince\work\脱机sdk\sdk6.2.4.7\Document\脱机通讯开发包(32bit Ver6.2.4.11)\Demo\C#\TFT\UserPhto\obj\Release\UserPhoto.pdb
+D:\wince\work\脱机sdk\sdk6.2.4.7\Document\脱机通讯开发包(32bit Ver6.2.4.11)\Demo\C#\TFT\UserPhoto\obj\Release\Interop.zkemkeeper.dll
+D:\wince\work\脱机sdk\sdk6.2.4.7\Document\脱机通讯开发包(32bit Ver6.2.4.11)\Demo\C#\TFT\UserPhoto\obj\Release\UserPhoto.csproj.ResolveComReference.cache
+D:\wince\work\脱机sdk\sdk6.2.4.7\Document\脱机通讯开发包(32bit Ver6.2.4.11)\Demo\C#\TFT\UserPhoto\obj\Release\UserPhoto.exe
+D:\wince\work\脱机sdk\sdk6.2.4.7\Document\脱机通讯开发包(32bit Ver6.2.4.11)\Demo\C#\TFT\UserPhoto\obj\Release\UserPhoto.pdb
+D:\wince\work\脱机sdk\sdk6.2.4.7\Document\脱机通讯开发包(32bit Ver6.2.4.11)\Demo\C#\TFT\UserPhoto\bin\Release\UserPhoto.exe
+D:\wince\work\脱机sdk\sdk6.2.4.7\Document\脱机通讯开发包(32bit Ver6.2.4.11)\Demo\C#\TFT\UserPhoto\bin\Release\UserPhoto.pdb
+D:\wince\work\脱机sdk\sdk6.2.4.7\Document\脱机通讯开发包(32bit Ver6.2.4.11)\Demo\C#\TFT\UserPhoto\bin\Release\Interop.zkemkeeper.dll
+D:\wince\work\脱机sdk\sdk6.2.4.7\Document\脱机通讯开发包(32bit Ver6.2.4.11)\Demo\C#\TFT\UserPhoto\obj\Release\ResolveAssemblyReference.cache
+D:\wince\work\脱机sdk\sdk6.2.4.7\Document\脱机通讯开发包(32bit Ver6.2.4.11)\Demo\C#\TFT\UserPhoto\obj\Release\UserPhoto.UserPhotoMain.resources
+D:\wince\work\脱机sdk\sdk6.2.4.7\Document\脱机通讯开发包(32bit Ver6.2.4.11)\Demo\C#\TFT\UserPhoto\obj\Release\UserPhoto.Properties.Resources.resources
+D:\wince\work\脱机sdk\sdk6.2.4.7\Document\脱机通讯开发包(32bit Ver6.2.4.11)\Demo\C#\TFT\UserPhoto\obj\Release\UserPhoto.csproj.GenerateResource.Cache
+G:\work\脱机sdk\sdk6.2.4.7\发送Document\脱机通讯开发包\Communication Protocol SDK(32Bit Ver6.2.4.11)\Demo\C#\TFT\UserPhoto\obj\Release\Interop.zkemkeeper.dll
+G:\work\脱机sdk\sdk6.2.4.7\发送Document\脱机通讯开发包\Communication Protocol SDK(32Bit Ver6.2.4.11)\Demo\C#\TFT\UserPhoto\obj\Release\UserPhoto.csproj.ResolveComReference.cache
+G:\work\脱机sdk\sdk6.2.4.7\发送Document\脱机通讯开发包\Communication Protocol SDK(32Bit Ver6.2.4.11)\Demo\C#\TFT\UserPhoto\obj\Release\UserPhoto.exe
+G:\work\脱机sdk\sdk6.2.4.7\发送Document\脱机通讯开发包\Communication Protocol SDK(32Bit Ver6.2.4.11)\Demo\C#\TFT\UserPhoto\obj\Release\UserPhoto.pdb
+D:\WorkSpace\Repository\GIT\standalonesdkdoc\release\sdk-6.2.5.54\Demo\C#\TFT\UserPhoto\obj\Release\Interop.zkemkeeper.dll
+D:\WorkSpace\Repository\GIT\standalonesdkdoc\release\sdk-6.2.5.54\Demo\C#\TFT\UserPhoto\obj\Release\UserPhoto.csproj.ResolveComReference.cache
+D:\WorkSpace\Repository\GIT\standalonesdkdoc\release\sdk-6.2.5.54\Demo\C#\TFT\UserPhoto\obj\Release\UserPhoto.exe
+D:\WorkSpace\Repository\GIT\standalonesdkdoc\release\sdk-6.2.5.54\Demo\C#\TFT\UserPhoto\obj\Release\UserPhoto.pdb

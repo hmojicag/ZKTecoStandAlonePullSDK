@@ -1,0 +1,2 @@
+E:\C#\Black&White\Card Management\obj\Debug\Interop.zkemkeeper.dll
+E:\C#\Black&White\Card Management\obj\Debug\Card.csproj.ResolveComReference.cache

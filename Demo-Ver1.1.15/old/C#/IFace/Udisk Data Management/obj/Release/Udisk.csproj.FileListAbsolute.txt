@@ -1,0 +1,9 @@
+E:\C#\IFace\Udisk Data Management\bin\Release\Udisk.exe
+E:\C#\IFace\Udisk Data Management\bin\Release\Udisk.pdb
+E:\C#\IFace\Udisk Data Management\obj\Release\ResolveAssemblyReference.cache
+E:\C#\IFace\Udisk Data Management\obj\Release\UdiskData.UDiskDataMain.resources
+E:\C#\IFace\Udisk Data Management\obj\Release\UdiskData.Properties.Resources.resources
+E:\C#\IFace\Udisk Data Management\obj\Release\Udisk.csproj.GenerateResource.Cache
+E:\C#\IFace\Udisk Data Management\obj\Release\Udisk.exe
+E:\C#\IFace\Udisk Data Management\obj\Release\Udisk.pdb
+D:\WorkSpace\Repository\GIT\standalonesdkdoc\release\sdk-6.2.5.54\Demo\C#\IFace\Udisk Data Management\obj\Release\Udisk.exe

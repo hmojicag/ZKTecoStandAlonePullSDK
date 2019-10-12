@@ -1,0 +1,2 @@
+E:\C#\TFT\UserInfo\obj\Debug\Interop.zkemkeeper.dll
+E:\C#\TFT\UserInfo\obj\Debug\UserInfo.csproj.ResolveComReference.cache

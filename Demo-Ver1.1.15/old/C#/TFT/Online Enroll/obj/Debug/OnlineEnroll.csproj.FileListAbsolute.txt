@@ -1,0 +1,2 @@
+E:\C#\TFT\Online Enroll\obj\Debug\Interop.zkemkeeper.dll
+E:\C#\TFT\Online Enroll\obj\Debug\OnlineEnroll.csproj.ResolveComReference.cache
